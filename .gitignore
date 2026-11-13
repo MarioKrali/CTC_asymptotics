@@ -1,0 +1,13 @@
+# Generated output (re-created by the scripts)
+results/
+figures/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# OS
+.DS_Store
