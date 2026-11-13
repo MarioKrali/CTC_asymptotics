@@ -78,7 +78,7 @@ names(cov_df) <- c("d", "p", "n", "kappa", "c", "value")
 cov_df <- mutate(cov_df, value = 100 * value, metric = "Joint coverage")
 
 # As in the figure of the paper, each configuration's value is repeated once
-# per replicate before computing the boxplot statistics.
+# per Monte Carlo replication (reps times) before computing the boxplot statistics.
 box_df <- cov_df[rep(seq_len(nrow(cov_df)), each = reps), ]
 
 highlight <- filter(cov_df, n == "50000", p == ".2", d == "20")
