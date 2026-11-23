@@ -80,7 +80,7 @@ the number of cores used.
   title         = {Causal and conditional tail coefficients: asymptotics, inference and graph recovery},
   author        = {B{\"u}cher, Axel and Krali, Mario},
   year          = {2026},
-  eprint        = {XXXX.XXXXX},
+  eprint        = {2611.18225},
   archivePrefix = {arXiv},
   primaryClass  = {math.ST}
 }
