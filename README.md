@@ -3,7 +3,7 @@
 R code to reproduce the simulations, figures and data application of
 
 > Axel Bücher and Mario Krali (2026). *Causal and conditional tail coefficients:
-> asymptotics, inference and graph recovery.* arXiv preprint (link to follow).
+> asymptotics, inference and graph recovery.* Preprint, arXiv:2611.18225.
 
 The paper establishes functional central limit theorems for rank-based
 estimators of the causal tail coefficient (CTC) and of more general conditional
